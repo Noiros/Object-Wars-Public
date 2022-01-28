@@ -8,18 +8,22 @@ assignees: ''
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+What you see [ e.g my screen became black and i eat kokonuts ] 
+
 
 **To Reproduce**
-Steps to reproduce the bug:
+How i can reproduce that bug ?
+
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+Some Screenshot
 
-**Desktop (please complete the following information):**
+
+**Computer Config:**
  - OS: [e.g. Windows]
  - CPU: [e.g. Ryzen ...]
  - GPU: [e.g. RX 6800 ...]
+
 
 **Additional context**
 Add any other context about the problem here.
